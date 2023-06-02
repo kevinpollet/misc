@@ -1,4 +1,4 @@
-module github.com/kevinpollet/misc
+module github.com/kevinpollet/yaml-single-or-array
 
 go 1.18
 
